@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Vineet Soni    Vintoki @watashi_vineet
 
 # THANKS
 
