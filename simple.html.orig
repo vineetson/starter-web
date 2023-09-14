@@ -1,0 +1,42 @@
+
+<!--
+	Copyright 2023 Vintoki
+<<<<<<< HEAD
+	Some silly changes from master branch.
+-->
+<!DOCTYPE html>
+<head>
+	<title>Silly changes from Master</title>
+=======
+	These changes are from feature branch bigtrouble.
+-->
+<!DOCTYPE html>
+<head>
+	<title>Lots of Trouble</title>
+>>>>>>> fa31ed7 (fb adding some trouble to simple.html)
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Junk filler content-->
+		<p>
+<<<<<<< HEAD
+			just stuff for now,
+			Not sure if we should replace this or not.
+=======
+			Just nothin' but trouble.
+>>>>>>> fa31ed7 (fb adding some trouble to simple.html)
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Vintoki 2023</p>
+	</footer>
+</body>
+</html>
